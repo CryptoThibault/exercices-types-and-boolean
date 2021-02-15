@@ -7,7 +7,7 @@ if (temperature < 15) {
   isCold = false
 }
 if (isRainy || isWindy || isCold) {
-  console.log('Mettez votre manteau')
+  console.log('Mettez votre manteau.')
 } else {
-  console.log('Nous n avez pas besoin de manteau today')
+  console.log('Nous n avez pas besoin de manteau.')
 }

@@ -6,8 +6,8 @@ if (price <= isLow) {
   console.log('Time to buy!')
 }
 else if (price >= isHigh) {
-  console.log('Time to sell')
+  console.log('Time to sell!')
 }
 else {
-  console.log('Just wait')
+  console.log('Just wait!')
 }
